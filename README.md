@@ -1,10 +1,8 @@
-Hello World!
+Hello World! 🌎
 
 Welcome to my repository! My name is sourceseeker360, and I'm a 
 complete beginner at Python programming. I'm on an exciting journey
 to learn and grow, one step at a time.
-
-My Goal
 
 My primary objective is to:
 
