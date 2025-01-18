@@ -1,4 +1,7 @@
 
+# Calculate the sum of all numbers in a list.
+
+
 # Pseudocode:
 
 #     Define a function sum_of_list(numbers):
